@@ -1,3 +1,3 @@
 # Kailey's User Page
 
-My favorite programming language is Python.
+https://kaileywong.github.io/cse110-page/

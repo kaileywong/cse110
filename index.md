@@ -62,11 +62,11 @@ frequencies = [note_frequencies[note] for note in notes]
 
 Check out some of my projects:
 
-- [ ] **[Personal Website](link_to_project_1)**: My personal website!
-- [ ] **[Seishindo Acupuncture](link_to_project_1)**: A website I designed and developed for a local acupuncture business.
-- [ ] **[My Simple Recipe Book](link_to_project_2)**: A simple website to keep track of easy recipes I've learned and liked.
+- [ ] **[Personal Website](https://kaileywong.me/)**: My personal website!
+- [ ] **[Seishindo Acupuncture](https://kaileywong.github.io/seishindo/)**: A website I designed and developed for a local acupuncture business.
+- [ ] **[My Simple Recipe Book](https://kaileywong.github.io/my-simple-recipe-book/)**: A simple website to keep track of easy recipes I've learned and liked.
 
 
 ## Connect with me!
-- **LinkedIn:** https://www.linkedin.com/in/kailey-w/ 
-- **GitHub:** https://github.com/kaileywong
+- [**LinkedIn**](https://www.linkedin.com/in/kailey-w/)
+- [**GitHub**](https://github.com/kaileywong)
